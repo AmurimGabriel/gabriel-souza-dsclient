@@ -1,0 +1,9 @@
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
