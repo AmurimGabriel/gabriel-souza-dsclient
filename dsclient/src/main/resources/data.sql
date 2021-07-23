@@ -1,9 +1,9 @@
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
-INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel Souza', '38550656836', NOW(), 2300.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Gabriel', '38550656836', NOW(), 3500.00, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('João', '89056723412', NOW(), 4500.00, 1);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Guilherme', '123456789990', NOW(), 5500.00, 2);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Vitor', '12378945610', NOW(), 6600.00, 3);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Nycolas', '23467890135', NOW(), 7700.00, 4);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Fernando', '09865421387', NOW(), 8800.00, 5);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Felipe', '09908778109', NOW(), 9900.00, 2);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Matheues', '12356789045', NOW(), 2100.00, 4);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Rodrigo', '67845623419', NOW(), 23300.00, 2);
